@@ -45,6 +45,15 @@ I am Chuan Xu, a full-stack developer from Shanghai.
 ![](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google%20cloud&logoColor=white)
 ![](https://img.shields.io/badge/-Amazon%20Web%20Service-232F3E?style=for-the-badge&logo=amazon%20aws&logoColor=white)
 
+## Development Tool skills
+
+![](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![](https://img.shields.io/badge/-Jira%20Software-0052CC?style=for-the-badge&logo=jira%20software&logoColor=white)
+![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+
 <details><summary><strong>Buy Me A Coffee</strong></summary>
 
 <a href="https://buymeacoff.ee/xchuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Pizza" style="width: 200px !important"></a>
