@@ -59,3 +59,7 @@ I am Chuan Xu, a full-stack developer from Shanghai.
 <a href="https://buymeacoff.ee/xchuan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Pizza" style="width: 200px !important"></a>
   
 </details>
+
+### 📫 How to reach me:
+
+- email: support@xs-table.com
