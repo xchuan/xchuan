@@ -7,3 +7,7 @@ I am Chuan Xu, a full-stack developer from Shanghai.
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,angular" />
 </a>
+
+## My GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=xchuan&show_icons=true&count_private=true)
